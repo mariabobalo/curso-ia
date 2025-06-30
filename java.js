@@ -6,7 +6,8 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " Você já sabe qual profissão você quer escolher?"
+enunciado: " Você já sabe qual profissão você quer escolher?"
+>>>>>>> 96539ec1f87f4eb677e91b044b781a4d59920600
         alternativas: [
             {
                 texto: "Isso é assustador!",
